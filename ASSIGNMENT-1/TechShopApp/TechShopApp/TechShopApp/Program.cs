@@ -21,14 +21,14 @@ namespace TechShopApp
             }
             catch (DatabaseConnectionException ex)
             {
-                Console.WriteLine("❌ Failed to connect to the database.");
+                Console.WriteLine("Failed to connect to the database.");
                 Console.WriteLine("Error: " + ex.Message);
                 Console.WriteLine("Exiting application...");
                 return;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("❌ An unexpected error occurred.");
+                Console.WriteLine("An unexpected error occurred.");
                 Console.WriteLine("Error: " + ex.Message);
                 return;
             }
