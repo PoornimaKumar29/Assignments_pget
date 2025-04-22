@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechShopApp", "TechShopApp\TechShopApp.csproj", "{FCB8EB08-AF97-4E85-87ED-054C5DD37746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechShopTest", "TechShopTest\TechShopTest.csproj", "{A58CE66A-FB5B-4DD6-8BB6-2216FC361F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB8EB08-AF97-4E85-87ED-054C5DD37746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB8EB08-AF97-4E85-87ED-054C5DD37746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB8EB08-AF97-4E85-87ED-054C5DD37746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB8EB08-AF97-4E85-87ED-054C5DD37746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58CE66A-FB5B-4DD6-8BB6-2216FC361F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58CE66A-FB5B-4DD6-8BB6-2216FC361F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58CE66A-FB5B-4DD6-8BB6-2216FC361F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58CE66A-FB5B-4DD6-8BB6-2216FC361F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68FA9A13-FAA3-40B2-89B6-54232B4C5DFA}
+	EndGlobalSection
+EndGlobal
